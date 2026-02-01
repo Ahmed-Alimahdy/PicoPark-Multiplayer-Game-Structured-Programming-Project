@@ -36,8 +36,8 @@ Players must collaborate to solve puzzles, overcome obstacles, and complete leve
 ---
 
 ## 🛠️ Technologies Used
-- Programming Language: *SFML*
-- Game Engine / Framework: *C++*
+- Programming Language: *C++*
+- Game Engine / Framework: *SFML*
 - Version Control: Git & GitHub
 
 
