@@ -1,39 +1,44 @@
-[![SFML logo](https://www.sfml-dev.org/images/logo.png)](https://www.sfml-dev.org)
+# PicoPark Multiplayer Game  
+### Structured Programming Course
 
-# SFML — Simple and Fast Multimedia Library
+## 📖 Project Description
+This project is a **multiplayer cooperative puzzle-platformer game** inspired by *Pico Park*.  
+It was developed as part of a **Structured programming course**, with an emphasis on teamwork, clean code structure, and applying core software engineering principles.
 
-SFML is a simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network. It is written in C++, and has bindings for various languages such as C, .Net, Ruby, Python.
+Players must collaborate to solve puzzles, overcome obstacles, and complete levels successfully.
 
-## Authors
+---
 
-  - Laurent Gomila — main developer (laurent@sfml-dev.org)
-  - Marco Antognini — OS X developer (hiura@sfml-dev.org)
-  - Jonathan De Wachter — Android developer (dewachter.jonathan@gmail.com)
-  - Jan Haller (bromeon@sfml-dev.org)
-  - Stefan Schindler (tank@sfml-dev.org)
-  - Lukas Dürrenberger (eXpl0it3r@sfml-dev.org)
-  - binary1248 (binary1248@hotmail.com)
-  - Artur Moreira (artturmoreira@gmail.com)
-  - Mario Liebisch (mario@sfml-dev.org)
-  - And many other members of the SFML community
+## 🎯 Project Objectives
+- Apply software engineering concepts in a practical project
+- Design and develop a cooperative multiplayer game
+- Practice teamwork, task distribution, and version control
+- Improve code quality through refactoring and modular design
 
-## Download
+---
 
-You can get the latest official release on [SFML's website](https://www.sfml-dev.org/download.php). You can also get the current development version from the [Git repository](https://github.com/SFML/SFML).
+## 🎮 Key Features
+- Cooperative multiplayer gameplay
+- Puzzle-based level design
+- Teamwork-dependent mechanics
+- Simple and user-friendly controls
+- Well-structured and maintainable codebase
 
-## Install
+---
 
-Follow the instructions of the [tutorials](https://www.sfml-dev.org/tutorials/), there is one for each platform/compiler that SFML supports.
+## 🧩 Software Engineering Practices
+- Modular design
+- Code refactoring
+- Team collaboration using Git and GitHub
+- Clear separation of responsibilities
+- Maintainable and readable code structure
 
-## Learn
+---
 
-There are several places to learn SFML:
+## 🛠️ Technologies Used
+- Programming Language: *SFML*
+- Game Engine / Framework: *C++*
+- Version Control: Git & GitHub
 
-  * The [official tutorials](https://www.sfml-dev.org/tutorials/)
-  * The [online API documentation](https://www.sfml-dev.org/documentation/)
-  * The [community wiki](https://github.com/SFML/SFML/wiki/)
-  * The [community forum](https://en.sfml-dev.org/forums/) ([French](https://fr.sfml-dev.org/forums/))
 
-## Contribute
 
-SFML is an open-source project, and it needs your help to go on growing and improving. If you want to get involved and suggest some additional features, file a bug report or submit a patch, please have a look at the [contribution guidelines](https://www.sfml-dev.org/contribute.php).
