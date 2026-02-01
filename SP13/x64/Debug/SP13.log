@@ -1,0 +1,432 @@
+﻿  FileName.cpp
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(28,26): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(28,45): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(635,46): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(635,46): warning C4309: 'argument': truncation of constant value
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(643,47): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(643,47): warning C4309: 'argument': truncation of constant value
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(724,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(724,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(914,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(914,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(919,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(919,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(924,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(924,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(929,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(929,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(934,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(934,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(939,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(939,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(944,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(944,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(949,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(949,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1169,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1487,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1505,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1573,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1573,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1659,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1693,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1693,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1697,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1697,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1978,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1980,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1987,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1989,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1996,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(1998,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2350,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2350,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2358,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2358,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2403,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2403,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2406,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2406,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2499,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2499,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2636,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2642,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2642,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2646,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2646,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2650,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2650,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2655,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2655,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2659,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2659,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2663,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2663,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2679,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2679,40): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2679,40): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2679,40): warning C4244:             T=float
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2679,40): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2685,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2685,60): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2685,60): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2685,60): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2685,60): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2685,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2685,37): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2685,37): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2685,37): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2685,37): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2712,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2714,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2720,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2724,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2726,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2728,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2730,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2732,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2734,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2817,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2817,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2862,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2862,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2884,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2885,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2885,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2886,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2886,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2887,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2887,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2888,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2888,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2889,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2889,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2890,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2890,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2891,130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2891,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2923,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2925,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2926,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2926,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2927,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(2927,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3002,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3002,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3003,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3003,61): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3003,61): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3003,61): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3003,61): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3003,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3003,41): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3003,41): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3003,41): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3003,41): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3011,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3011,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3012,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3012,61): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3012,61): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3012,61): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3012,61): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3012,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3012,41): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3012,41): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3012,41): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3012,41): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3036,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3036,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3037,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3037,61): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3037,61): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3037,61): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3037,61): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3037,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3037,41): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3037,41): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3037,41): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3037,41): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3174,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3177,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3181,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3185,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3189,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3195,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3197,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3201,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3205,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3209,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3295,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3295,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3309,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3309,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3324,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3324,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3339,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3339,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3426,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3426,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3438,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3438,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3491,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3491,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3504,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3504,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3641,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3650,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3660,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3668,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3676,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3680,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3684,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3688,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3692,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3702,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3751,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3751,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3759,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3759,56): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3759,56): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3759,56): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3759,56): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3762,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3762,56): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3762,56): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3762,56): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3762,56): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3896,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3896,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3903,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(3903,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4010,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4010,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4013,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4013,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4021,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4126,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4126,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4253,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4259,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4259,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4263,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4263,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4267,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4267,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4272,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4272,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4276,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4276,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4280,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4280,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4297,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4297,40): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4297,40): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4297,40): warning C4244:             T=float
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4297,40): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4322,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4332,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4334,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4336,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4338,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4340,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4342,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4344,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4346,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4348,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4350,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4352,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4354,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4356,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4358,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4360,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4362,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4364,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4366,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4368,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4370,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4372,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4454,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4454,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4499,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4499,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4518,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4519,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4519,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4520,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4520,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4521,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4521,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4522,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4522,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4523,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4523,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4524,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4524,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4525,129): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4525,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4527,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4529,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4530,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4530,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4531,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4531,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4611,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4611,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4612,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4612,60): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4612,60): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4612,60): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4612,60): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4612,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4612,40): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4612,40): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4612,40): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4612,40): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4620,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4620,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4621,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4621,60): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4621,60): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4621,60): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4621,60): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4621,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4621,40): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4621,40): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4621,40): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4621,40): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4645,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4645,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4646,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4646,60): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4646,60): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4646,60): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4646,60): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4646,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4646,40): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4646,40): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4646,40): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4646,40): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4781,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4781,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4794,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4794,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4808,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4808,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4822,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(4822,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5050,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5071,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5089,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5089,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5101,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5101,55): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5101,55): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5101,55): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5101,55): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5125,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5135,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5208,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5208,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5215,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5215,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5439,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5445,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5445,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5449,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5449,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5453,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5453,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5458,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5458,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5462,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5462,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5466,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5466,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5470,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5470,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5509,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5509,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5525,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5549,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5549,40): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5549,40): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5549,40): warning C4244:             T=float
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5549,40): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5671,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5671,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5711,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5711,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5782,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5782,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5791,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5791,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5816,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5816,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5817,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5817,60): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5817,60): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5817,60): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5817,60): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5817,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5817,40): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5817,40): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5817,40): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5817,40): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5844,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5846,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5877,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5878,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5878,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5879,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5879,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5880,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5880,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5881,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5881,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5882,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5882,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5883,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5883,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5884,129): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5884,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5886,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5888,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5889,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5889,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5890,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(5890,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6162,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6162,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6177,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6177,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6193,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6193,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6210,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6210,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6402,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6402,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6409,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6409,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6446,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6446,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6454,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6454,55): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6454,55): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6454,55): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6454,55): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6457,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6457,55): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6457,55): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6457,55): warning C4244:             T=unsigned int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6457,55): warning C4244:         ]
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6863,45): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6863,45): warning C4309: 'argument': truncation of constant value
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6871,46): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(6871,46): warning C4309: 'argument': truncation of constant value
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(7070,46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(7070,46): warning C4244:         with
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(7070,46): warning C4244:         [
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(7070,46): warning C4244:             T=int
+C:\Users\Ahmed Ali\source\repos\SP13\FileName.cpp(7070,46): warning C4244:         ]
+  SP13.vcxproj -> C:\Users\Ahmed Ali\source\repos\SP13\x64\Debug\SP13.exe
